@@ -6,7 +6,8 @@
 <br/>
 
 ![Iago GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoCampideli&show_icons=true&theme=dracula)
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoCampideli)](https://github.com/IagoCampideli/github-readme-stats)
+
 
 ### Tecnologias que estou me desenvolvendo
 <div style="display: inline-block"><br/>
